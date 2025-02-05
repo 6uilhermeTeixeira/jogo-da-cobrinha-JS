@@ -1,4 +1,4 @@
-# JogoDaCobrinhaJS
+# Jogo Da Cobrinha JS
 
 Este é um simples projeto de Jogo da Cobrinha.
 
@@ -12,4 +12,4 @@ Este é um simples projeto de Jogo da Cobrinha.
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/6uilhermeTeixeira/JogoDaCobrinhaJS.git
+git clone https://github.com/6uilhermeTeixeira/jogo-da-cobrinha-JS.git
